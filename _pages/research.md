@@ -1,1 +1,7 @@
-Under construction.
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
+---
+123
