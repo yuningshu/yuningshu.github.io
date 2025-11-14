@@ -7,8 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Yuning Shu, and I'm currently a 2nd-year undergraduate student at UChicago majoring in Statistics.
+Hi! I'm currently a second-year undergraduate student at the University of Chicago studying Mathematics and Statistics.
 
-I'm interested in statistical methods and machine learning techniques that can be applied to complex data in biological and health-related fields, such as clinical trials and genomics. 
+I'm interested in statistics and machine learning. Particularly, I'm interested in the methods that can be applied to complex biological and health-related data, such as clinical trials and genomics.
 
+Feel free to contact me through [first][last]@uchicago.edu!
 ---

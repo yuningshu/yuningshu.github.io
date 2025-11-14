@@ -29,7 +29,7 @@ author:
   location         : "Chicago, IL"
   employer         : "University of Chicago"
   uri              : # URL
-  email            : "yuningshu@uchicago.edu" 
+  email            : # "yuningshu@uchicago.edu" 
 
   # Academic websites
   academia         : # URL
@@ -60,7 +60,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "yuning_shu"
   lastfm           : # Username
   linkedin         : "yuning-shu" # Username
   mastodon         : # URL
