@@ -5,4 +5,3 @@ permalink: /misc/
 author_profile: true
 ---
 
-Under construction.
