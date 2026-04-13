@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Yuning Shu"
   pronouns         : # example: "she/her"  
-  bio              : "Undergraduate student at the University of Chicago"
+  bio              : # "Undergraduate student at the University of Chicago"
   location         : "Chicago, IL"
   employer         : "University of Chicago"
   uri              : # URL
