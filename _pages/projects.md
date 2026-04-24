@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-# Exploring Genetic Variants Associated with Smoking Initiation
+## Exploring Genetic Variants Associated with Smoking Initiation
 
 This study investigates the genetic basis of smoking initiation by analyzing summary statistics from a large genome-wide association study (GWAS) dataset (ieu-b-4877) by Liu et al. (2019). We aim to identify independent loci significantly associated with the likelihood of initiating smoking and annotate them to uncover potential biological mechanisms. We conduct functional mapping using Ensembl and perform linkage disequilibrium (LD) clumping to filter top-associated variants.
 
